@@ -1,2 +1,3 @@
 # Spring2021List
-Practice 
+Practice
+print("Hello World!") 
